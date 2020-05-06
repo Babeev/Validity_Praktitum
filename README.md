@@ -1,2 +1,2 @@
-# Validity_Praktitum
-Create validity for registration form
+# https://github.com/Babeev/Validity_Praktitum
+git tag -a v0.0.2 -m "my final version"
