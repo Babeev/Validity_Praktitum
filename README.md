@@ -1,2 +1,2 @@
-# https://github.com/Babeev/Validity_Praktitum
-git tag -a v0.0.2 -m "my final version"
+# https://babeev.github.io/Validity_Praktitum/
+Project for implementing form validation
